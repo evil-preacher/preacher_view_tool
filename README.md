@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-DevcampViewTool::Renderer.copyright 'Paul Pukhtiy', 'All rights reserved'
+PreacherViewTool::Renderer.copyright 'Paul Pukhtiy', 'All rights reserved'
 ```
 
 ## Development
